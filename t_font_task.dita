@@ -10,6 +10,7 @@ Task//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
 	</shortdesc>
 	
 	<taskbody>
+		<steps>
 		<step>
 			<cmd>Have the content and main elements mapped out in an HTML file.</cmd>
 		</step>
@@ -28,5 +29,6 @@ Task//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
 		<step>
 			<cmd>View the finished product and make any adjustments based on the final output.</cmd>
 		</step>
+		</steps>
 	</taskbody>
 </task>

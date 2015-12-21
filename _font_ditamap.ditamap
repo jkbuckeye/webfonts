@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/map.dtd">
 
-<map id="Web Fonts">
+<map id="Web-Fonts">
 	<title>Web Fonts</title>
-	<topicref href="c_font_history.dita" />
-	<topicref href="c_font_history.dita" />
-	<topicref href="c_font_module.dita" />
-	<topicref href="c_font_kerning.dita" />
-	<topicref href="r_font_GenericFamilies.dita" />
-	<topicref href="_font_method_choice.ditamap" />
-	<topicref href="t_font_task.dita" />
+	<topicref href="c_font_history.dita" type="concept" />
+	<topicref href="c_font_module.dita" type="concept" />
+	<topicref href="c_font_kerning.dita" type="concept" />
+	<topicref href="r_font_GenericFamilies.dita" type="reference" />
+
+	<topicref href="_font_method_choice.ditamap" format="ditamap">
+	<topicmeta>
+          	<navtitle>Choosing Your Method</navtitle>
+        	</topicmeta>
+      	</topicref>
+	<topicref href="t_font_task.dita" type="task" />
 </map>	

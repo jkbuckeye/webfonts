@@ -9,11 +9,12 @@
 		<conbody>
 			<p>
 			This module was written by the W3C, and sets the rules and provides background for the decisions of all the coding for the font sets in HTML and CSS.  
-			There is a lot to provide for, as many times fonts have to be adapted to different languages or different alphabets, and you can’t always get a perfect match.  
+			There is a lot to provide for, as many times fonts have to be adapted to different languages or different alphabets, and you cannot always get a perfect match.  
 			In these cases, there is a font specification, but sites have a default form or the generic family available, which allows the appearance to be similar. 
 			For aspects such as style, some fonts do not have a specific setting for bold or oblique.  But there is a font-synthesis, which allows the weight of the font to 
 			be set and then act in place of one of those styles.  Font-face is a great system as well, which allows a different font entirely to be put in place for a specific 
-			element of a site, specifically an uncommon one which might need to be downloaded from another source for that purpose.  Overall it’s a really fascinating process 
-			through which characters (or “glyphs”) are translated into a font by the server, and in order to get the exact look across that you want, might take a good deal of planning and coding.
+			element of a site, specifically an uncommon one which might need to be downloaded from another source for that purpose.  Overall it is a really fascinating process 
+			through which characters (or <i>glyphs</i>) are translated into a font by the server, and in order to get the exact look across that you want, might take a good deal of planning and coding.
 			</p>
 		</conbody>
+</concept>

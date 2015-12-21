@@ -3,8 +3,13 @@
 
 <map id="method-choice">
 	<title>Choosing Your Method</title>
+	<topichead id="choosing-your-method">
+  	<topicmeta>
+  		<navtitle>Choosing Your Method</navtitle>
+    	</topicmeta>
 		<topicref href="c_font_fontface.dita" />
 		<topicref href="t_font_task3.dita" />
 		<topicref href="c_font_sIFR.dita" />
 		<topicref href="t_font_task2.dita" />
+	</topichead>
 </map>

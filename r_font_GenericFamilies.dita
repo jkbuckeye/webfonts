@@ -2,7 +2,8 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA
 Reference//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/reference.dtd">
 
-<reference id="Prose.io-language">
+<reference id="Generic-Families">
+	<title>Generic Families</title>
 	<refbody>
 		       <table>
 			<tgroup cols="2">

@@ -2,11 +2,10 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA
 Task//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
 
-<task id="font-task">
-	<title>Using a Font on Your Site</title>
+<task id="font-face">
+	<title>Using Font-face</title>
 	<shortdesc>
-	The font you choose and how you implement it can have a positive impact on the impression it makes and its
-	ease of use.	
+	The predominant method of rendering fonts on your site is going to useful for any designer to understand.	
 	</shortdesc>
 	
 	<taskbody>
