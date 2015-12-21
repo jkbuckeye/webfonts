@@ -10,7 +10,10 @@ Task//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
 	</shortdesc>
 	
 	<taskbody>
-		<step>
-		</step>
+		<steps>
+			<step>
+				<cmd>Do not tell me what to do</cmd>
+			</step>
+		</steps>
 	</taskbody>
 </task>
