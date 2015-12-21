@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" 
+"/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/concept.dtd">
+
+<concept id="History-intro">
+	<title>Web Font History</title>
+		<shortdesc>There are many influences on web fonts from before the invention of the internet and even personal computers.</shortdesc>
+		
+		<conbody>
+			<p>
+			Since the 16th Century, when words first became mass-printable, there has been a need for typeface, and since about that time, printers have been expressing themselves with that form.  We even use the same system of sizing which was taken from the original, expressed as the amount of parts out of 72 which it was of a full inch.  Fonts are still largely produced by foundries, which can justifiably be protective of their intellectual property, but more and more fonts are being produced by independent artists and typographers.  The term font originally applied to the different sizes of letters that typesetters would have of the same style of letter, which altogether compiled a typeface.  Since computer technology, most of us have come to think of a font as the whole typeface.
+			</p>
+		</conbody>
+</concept>
+			

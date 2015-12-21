@@ -3,9 +3,11 @@
 
 <map id="Web Fonts">
 	<title>Web Fonts</title>
-	<topicref href="_font_fontface.ditamap" />
+	<topicref href="c_font_history.dita" />
+	<topicref href="c_font_history.dita" />
+	<topicref href="c_font_module.dita" />
 	<topicref href="c_font_kerning.dita" />
-	<topicref href="_font_sIFR.ditamap" />
 	<topicref href="r_font_GenericFamilies.dita" />
+	<topicref href="_font_method_choice.ditamap" />
 	<topicref href="t_font_task.dita" />
 </map>	
