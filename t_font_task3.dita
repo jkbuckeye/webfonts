@@ -3,7 +3,7 @@
 Task//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
 
 <task id="font-face">
-	<title>Using Font-face</title>
+	<title>Using @font-face</title>
 	<shortdesc>
 	The predominant method of rendering fonts on your site is going to useful for any designer to understand.	
 	</shortdesc>
@@ -30,6 +30,8 @@ Task//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
 				<cmd></cmd>
 			</step>
 		</steps>
-		<topicref href="r_font_GenericFamilies.dita" type="reference" />
+		<postreq>
+		<xref href="r_font_GenericFamilies.dita">Generic Families</xref>
+		</postreq>
 	</taskbody>
 </task>

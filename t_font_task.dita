@@ -10,12 +10,13 @@ Task//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
 	</shortdesc>
 	
 	<taskbody>
+		<prereq>User must know the difference between CSS and HTML</prereq>
 		<steps>
 		<step>
 			<cmd>Have the content and main elements mapped out in an HTML file.</cmd>
 		</step>
 		<step>
-			<cmd>Begin a CSS file which the HTML file can pull rules from.</cmd>
+			<cmd>Begin a separate or internal CSS file/section which the HTML file can pull rules from.</cmd>
 		</step>
 		<step>
 			<cmd>Gain an understanding of which size, color, and weight schemes are visually pleasing.</cmd>
@@ -24,10 +25,16 @@ Task//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
 			<cmd>Decide on the particular scheme you might use.</cmd>
 		</step>
 		<step>
-			<cmd>Set up the rules for your fonts based on which type of texts exist in the HTML file.</cmd>
+			<cmd>Set up the rules for your fonts based on which type of text elements exist in the HTML file.</cmd>
 		</step>
 		<step>
 			<cmd>View the finished product and make any adjustments based on the final output.</cmd>
+		</step>
+		<step importance="optional">
+		<cmd>You may wish to choose a rendering method other than CSS for a wider range of font choices:</cmd>
+		<choices>
+		<choice><xref href="t_font_task2.dita">Setting Up sIFR</xref></choice>
+		<choice><xref href="t_font_task3.dita">Setting Up @font-face</xref></choice></choices>
 		</step>
 		</steps>
 	</taskbody>

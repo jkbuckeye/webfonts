@@ -2,12 +2,12 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA
 Task//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
 
-<task id="font-task">
-	<title>Running sIFR</title>
+<task id="sIFR-task">
+	<title>Setting Up sIFR</title>
 	<shortdesc>sIFR is an effect method of replacing limited-sized areas of text with any different font from any format to which you have access.</shortdesc>
 	
 	<taskbody>
-		<prereq>Must have a Flashplayer installed</prereq>
+		<prereq>Must have a Flashplayer installed and a basic knowledge of javascript and CSS.</prereq>
 		<steps>
 		<step>
 		<cmd>Download the sIFR toolkit</cmd>
@@ -16,10 +16,10 @@ Task//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
 		<cmd>Open up the file labeled sIFR.fla, and double click the font item in the library.</cmd>
 		</step>
 		<step>
-		<cmd>Export the movie as a name you will remember.</cmd>
+		<cmd>Export the movie and save as a filename you will remember.</cmd>
 		</step>
 		<step>
-		<cmd>Set your browser text in CSS so that it is close to the correct width to fill the movie.</cmd>
+		<cmd>Using kerning or the weight attribute, set your browser text in CSS so that it is close to the correct width to fill the movie.</cmd>
 		</step>
 		<step>
 		<cmd>Write in which items you have to replace at the bottom of the sIFR.js file.</cmd>
