@@ -9,10 +9,27 @@ Task//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
 	</shortdesc>
 	
 	<taskbody>
+		<prereq>Have a style sheet set up either inside or outside of your HTML document.</prereq>
 		<steps>
 			<step>
-				<cmd>Do not tell me what to do</cmd>
+				<cmd>Choose how many attributes you want connected to the @font-face element in the style sheet.</cmd>
+			</step>
+			<step>
+				<cmd>Write @font-face into the style sheet and list the font-family followed by src: the.url/you/are/pulling.from</cmd>
+			</step>
+			<step>
+				<cmd>List any further attributes you would like to use with that font.</cmd>
+			</step>
+			<step>
+				<cmd>Set the value of each of those attributes.</cmd>
+			</step>
+			<step>
+				<cmd>Make sure to include in the font-face section of the CSS which default Generic Family the selected font should revert to.</cmd>
+			</step>
+			<step>
+				<cmd></cmd>
 			</step>
 		</steps>
+		<topicref href="r_font_GenericFamilies.dita" type="reference" />
 	</taskbody>
 </task>

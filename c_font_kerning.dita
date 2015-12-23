@@ -8,7 +8,7 @@
 		when it is rendered.</shortdesc>
 		
 		<conbody>
-		<p>Kerning is the process of moving a glyph, either manually or automatically closer to a 
+		<p id="kerning">Kerning is the process of moving a glyph, either manually or automatically closer to a 
 		juxtaposed letter.  The process generates from when printing presses needed letters closer 
 		together than a solid block would otherwise allow. The printers had special blocks created 
 		over which part of the letter would hang, and fit under a neighboring glyph block. The piece 

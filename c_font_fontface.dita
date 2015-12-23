@@ -15,8 +15,9 @@
 			the given generic family, if none are found).  Each of these subsequent fonts can be 
 			retrieved from a different Open-source format, as long as the format itself is specified 
 			in the rule.</p>
-			<p>font-face also allows for the definition of composite fonts to a given site, if there 
+			<p id="font-face-2">font-face also allows for the definition of composite fonts to a given site, if there 
 			is a need for some glyphs from a different alphabet in a font which does not normally carry 
 			those glyphs.  In this case, the Unicode range must be defined for the character of that usage.</p>
+			<p conref="c_font_kerning.dita#Kerning/kerning">Blah blah blah</p>
 		</conbody>
 </concept>
