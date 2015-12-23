@@ -30,18 +30,18 @@ Reference//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/refer
 			</row>
 			<row id="cursive">
 			<entry>Cursive</entry>
-			<entry>belonging in this group is any font which has a “rolling” or “flowing” pattern
+			<entry>Any font which has a “rolling” or “flowing” pattern
 			 in which letters connect or seem to almost connect to each other, and generally resemble
 			handwriting.</entry>
 			</row>
 			<row id="fantasy">
 			<entry>Fantasy</entry> 
-			<entry>Arguably the most wide-ranging of the generic families, fantasy ranges along a
+			<entry>Arguably the most wide-ranging of the generic families, it ranges along a
 			 spectrum of any style which would not be included in any of the other families, and mostly for purposes of fun and amusement.</entry>
 			</row>
 			<row id="monospace">
 			<entry>Monospace</entry>
-			<entry>in this typeface, each figure takes up the same amount of space on a line, with m, for example, taking up the same amount
+			<entry>Each figure takes up the same amount of space on a line, with m, for example, taking up the same amount
 			of room as i. This makes the need for kerning less necessary, given that the spacing has been completely worked out within the typeface
 			itself.  Often these fonts have the appearance of something that would appear on typewriters of old, and offer a formal style, leaning towards fun.</entry>
 			</row>

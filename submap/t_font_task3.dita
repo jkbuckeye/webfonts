@@ -31,6 +31,7 @@ Task//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
 			</step>
 		</steps>
 		<postreq>
+		<p>Review what types of fonts exist in each family:</p>
 		<xref href="r_font_GenericFamilies.dita">Generic Families</xref>
 		</postreq>
 	</taskbody>

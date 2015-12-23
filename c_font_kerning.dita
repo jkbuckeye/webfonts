@@ -17,7 +17,7 @@
 		and the glyphs immediately following that letter to find if this pair exists as something 
 		different than simply the first glyph alone. So kerned pairs are placed before that glyph in the 
 		glyph generation programming of that font.  Some formats now, though, in order to take up less 
-		data space, simply group letter into the same roles for whether they are the first letter or the 
+		data space, simply group letters into the same roles for whether they are the first letter or the 
 		second, and from there determine how close the second letter in the pair should be moved back 
 		toward the first.</p>
 		</conbody>
