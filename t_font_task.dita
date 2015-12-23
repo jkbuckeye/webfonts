@@ -33,8 +33,8 @@ Task//EN" "/plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
 		<step importance="optional">
 		<cmd>You may wish to choose a rendering method other than CSS for a wider range of font choices:</cmd>
 		<choices>
-		<choice><xref href="t_font_task2.dita">Setting Up sIFR</xref></choice>
-		<choice><xref href="t_font_task3.dita">Setting Up @font-face</xref></choice></choices>
+		<choice><xref href="submap/t_font_task2.dita">Setting Up sIFR</xref></choice>
+		<choice><xref href="submap/t_font_task3.dita">Setting Up @font-face</xref></choice></choices>
 		</step>
 		</steps>
 	</taskbody>

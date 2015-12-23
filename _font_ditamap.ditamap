@@ -6,9 +6,9 @@
 	<topicref href="c_font_history.dita" type="concept" />
 	<topicref href="c_font_module.dita" type="concept" />
 	<topicref href="c_font_kerning.dita" type="concept" />
-	<topicref href="r_font_GenericFamilies.dita" type="reference" />
+	<topicref href="submap/r_font_GenericFamilies.dita" type="reference" />
 
-	<topicref href="_font_method_choice.ditamap" format="ditamap">
+	<topicref href="submap/_font_method_choice.ditamap" format="ditamap">
 	<topicmeta>
           	<navtitle>Choosing Your Method</navtitle>
         	</topicmeta>
